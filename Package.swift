@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PiplDeviceIntelligence",
-            url: "https://static.pipl.com/sdk/device-intelligence-ios/1.2.1/PiplDeviceIntelligence.xcframework.zip",
-            checksum: "f8dad4a925901382f5518f79747be62f1058235c912e48b86f955ffaca83eed6"
+            url: "https://static.pipl.com/sdk/device-intelligence-ios/1.2.2-rc.1/PiplDeviceIntelligence.xcframework.zip",
+            checksum: "0db89327d9f900d71e9a339807a033207c310d2d1ae127e563b8fa5754f376da"
         )
     ]
 )

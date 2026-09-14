@@ -3,7 +3,7 @@
 Binary distribution of the Pipl Device Intelligence SDK. This repository contains
 package manifests only — no source.
 
-**Current version:** `1.2.1` · iOS 16+
+**Current version:** `1.2.2-rc.1` · iOS 16+
 
 ## Swift Package Manager
 
@@ -17,14 +17,14 @@ Or in a `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/piplcom/device-intelligence-sdk-ios-dist.git", from: "1.2.1")
+    .package(url: "https://github.com/piplcom/device-intelligence-sdk-ios-dist.git", from: "1.2.2-rc.1")
 ]
 ```
 
 ## CocoaPods
 
 ```ruby
-pod 'PiplDeviceIntelligence', :podspec => 'https://raw.githubusercontent.com/piplcom/device-intelligence-sdk-ios-dist/1.2.1/PiplDeviceIntelligence.podspec'
+pod 'PiplDeviceIntelligence', :podspec => 'https://raw.githubusercontent.com/piplcom/device-intelligence-sdk-ios-dist/1.2.2-rc.1/PiplDeviceIntelligence.podspec'
 ```
 
 ## Quick start
